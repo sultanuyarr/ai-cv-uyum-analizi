@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlmodel
+aiosqlite
+asyncpg
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+pdfplumber
+python-docx
+sentence-transformers
+scikit-learn
+numpy
+pandas
+jinja2
+python-dotenv
+# No Redis, No Celery
+playwright
